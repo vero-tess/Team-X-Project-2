@@ -10,7 +10,7 @@ Dougie:
  43° 7'44.79"N
  77°37'44.48"W
 
-Meliora:
+Meliora ("restaurant"):
 
  43° 7'43.87"N
  77°37'44.03"W
@@ -122,7 +122,7 @@ Hoyt:
  43° 7'38.42"N
  77°37'46.46"W
 
-Meliora:
+Meliora (hall):
  43° 7'39.89"N
  77°37'41.24"W
 
