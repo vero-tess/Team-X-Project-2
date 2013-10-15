@@ -1,0 +1,171 @@
+I measured these via Google Earth, by making a "placemark" and copying and pasting the coordinates. I tried to pick approximately the center of each building, unless we were talking about multiple locations within a building (ie, Rush Rhees and Connections.) -Zach
+
+Danforth:
+
+43° 7'47.33"N
+77°37'36.63"W
+
+Dougie:
+
+ 43° 7'44.79"N
+ 77°37'44.48"W
+
+Meliora ("restaurant"):
+
+ 43° 7'43.87"N
+ 77°37'44.03"W
+
+The pit:
+
+ 43° 7'43.89"N
+ 77°37'47.24"W
+
+Connections:
+
+ 43° 7'43.48"N
+ 77°37'41.59"W
+
+Pura Vida
+
+ 43° 7'31.16"N
+ 77°37'46.20"W
+
+CSB:
+
+ 43° 7'30.05"N
+ 77°37'47.79"W
+
+Gavett:
+ 43° 7'36.23"N
+ 77°37'44.83"W
+
+Nipple of Knowledge:
+
+ 43° 7'42.59"N
+ 77°37'42.99"W
+
+Sigma Chi:
+ 43° 7'45.32"N
+ 77°37'55.50"W
+
+Sigma Alpha Mu:
+ 43° 7'46.40"N
+ 77°37'56.37"W
+
+Sig Ep:
+ 43° 7'47.63"N
+ 77°37'57.01"W
+
+Psi Epsilon
+ 43° 7'45.96"N
+ 77°37'57.45"W
+
+Theta Chi
+ 43° 7'44.69"N
+ 77°37'57.90"W
+
+Alpha Delta:
+ 43° 7'43.71"N
+ 77°37'57.43"W
+
+Delta Kappa Epsilon:
+ 43° 7'42.68"N
+ 77°37'56.87"W
+
+Fredrick Douglas Leadership House:
+ 43° 7'44.66"N
+ 77°37'55.18"W
+
+Drama House:
+ 43° 7'43.52"N
+ 77°37'54.21"W
+
+Todd:
+ 43° 7'41.75"N 
+ 77°37'54.12"W
+
+La Chase:
+ 43° 7'42.81"N
+ 77°37'51.47"W
+
+Strong:
+ 43° 7'39.86"N
+ 77°37'53.42"W
+
+Chappel:
+ 43° 7'37.32"N
+ 77°37'56.58"W
+
+Morey:
+ 43° 7'42.35"N
+ 77°37'47.09"W
+
+Lattimore:
+ 43° 7'41.13"N
+ 77°37'50.64"W
+
+B&L:
+
+ 43° 7'40.00"N
+ 77°37'45.43"W
+
+Dewey:
+
+ 43° 7'38.68"N
+ 77°37'48.84"W
+
+Random new building:
+ 43° 7'42.53"N
+ 77°37'49.21"W
+
+Hoyt:
+ 43° 7'38.42"N
+ 77°37'46.46"W
+
+Meliora (hall):
+ 43° 7'39.89"N
+ 77°37'41.24"W
+
+Harkness:
+ 43° 7'37.60"N
+ 77°37'42.28"W
+
+Hopeman:
+ 43° 7'35.30"N
+ 77°37'48.16"W
+
+Simon:
+ 43° 7'36.96"N
+ 77°37'51.33"W
+
+Wallis:
+ 43° 7'34.41"N
+ 77°37'52.14"W
+
+Hylan:
+ 43° 7'32.06"N
+ 77°37'49.45"W
+
+Hutchinson:
+ 43° 7'31.31"N
+ 77°37'51.26"W
+
+Carlson:
+ 43° 7'29.91"N
+ 77°37'49.75"W
+
+Wilmot/Georgan
+ 43° 7'31.93"N
+ 77°37'45.73"W
+
+Sue B:
+ 43° 7'47.33"N
+ 77°37'36.54"W
+
+Faver:
+ 43° 7'51.08"N
+ 77°37'42.39"W
+
+Gym:
+ 43° 7'47.88"N
+ 77°37'46.65"W
