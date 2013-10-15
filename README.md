@@ -47,7 +47,7 @@ _____________________
 We use a coloring scheme to denote where food locations and seminars are located. The dark blue corresponds to dining 
 halls with the link to the Campus Dish website and allows the user to see what is currently being offered at the dining 
 halls. The red markers denote seminars with food, the yellow markers correspond to seminars without food, and the purple
-markers correspond to events of clubs that have food.
+markers correspond to events of clubs that have food. 
 
 
 INSTALL, CONFIGURE, AND RUN
