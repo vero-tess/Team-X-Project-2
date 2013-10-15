@@ -79,7 +79,7 @@ Google maps: Nate
 
 Presentation:
 GitHub (almost) Pro: Veronika
-Grammar Nazi: Josh
+Grammar Nazi: Josh 
 
 Guy who sprints to get us good tables at Gleason: Nate
 
