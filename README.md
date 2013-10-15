@@ -54,7 +54,8 @@ INSTALL, CONFIGURE, AND RUN
 ___________________________
 
 This program was written using HTML, CSS, and JavaScript and will run on Mac OS X, Windows XP, and Linux using a web
-browser that supports HTML 5. The code can be downloaded and edited using any plain text editor.
+browser that supports HTML 5. If Internet Explorer is used, version 7 or later is required. The code can be downloaded 
+and edited using any plain text editor.
 
 
 
