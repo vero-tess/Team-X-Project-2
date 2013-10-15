@@ -5,9 +5,9 @@ Team-X-Project-2
 DESCRIPTION
 ___________
 
-A JavaScript web application to help students find out where seminars and events with and without free food are located
+A JavaScript web application to help students find where seminars and events with and without free food are located
 on the University of Rochester campus. The site includes an interactive map that allows users to visually locate the
-events as well as a list of available events and accompanying information.
+events as well as a list of available events and pertinent information about each.
 
 
 LAST EDITED
