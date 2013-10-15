@@ -41,7 +41,7 @@
 			</div> <!--end info-->
 		</div> <!--end sidebar-->
 		<div id="map">
-			<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zjrmX1fiysYs.kYzz4FmXgA1E"
+			<iframe src="https://mapsengine.google.com/map/u/0/edit?mid=zjrmX1fiysYs.kNruoxzsmiL4"
 				width="640" height="480"></iframe>
 		</div> <!--end map-->
 	</div> <!--end wrapper-->
