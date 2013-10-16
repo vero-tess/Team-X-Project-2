@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Food Finder</title>
+<link href="food-finder.css" type="text/css" rel="stylesheet" />
+<link href="ff.bmp" type="image/gif" rel="shortcut icon" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="sidebar">
+			<div id="key">
+				<div id="key-header">
+				Key
+				</div> <!--end key-header-->
+				<div id="key-content">
+					<dl>
+					<dt> <span style="background-color:purple">&nbsp&nbsp&nbsp&nbsp</span> = Events</dt>
+					<dt><span style="background-color:red">&nbsp&nbsp&nbsp&nbsp</span> = Seminars with food</dt>
+					<dt><span style="background-color:yellow">&nbsp&nbsp&nbsp&nbsp</span> = Seminars without food</dt>
+					<dt><span style="background-color:blue">&nbsp&nbsp&nbsp&nbsp</span> = Dining Halls</dt>
+					</dl>
+				</div> <!--end key-content-->
+			</div> <!--end key-->
+			<div id="info">
+				<div id="info-header">
+				Info
+				</div> <!--end info-header-->
+				<div id="info-content"> <!-- moving past the prototype, this div would be generated w/ PHP & a mySQL database-->
+					<dl id="info-content-list">
+						<dt id="undermining-data">Undermining Data</dt>
+							<dd id="undermining-data">
+								<p>Where: CSB 601</p>
+								<p>When: 1000-1100 10/23/13</p>
+								<p>Description: Using data mining to disprove the data mining results of others.</p>
+								<p>Food: Great Northern Pizza</p>
+							</dd>
+						<hr>
+						<dt id="deep-brain-stimulation">Deep Brain Stimulation for Depression</dt>
+							<dd id="deep-brain-stimulation">
+								<p>Where: Meliora 102</p>
+								<p>When: 1500-1700 10/31/13</p>
+								<p>Description: A new wave has come upon us. Using electrical stimulation to overwork sad areas of the brain, Treatment Resistant Depression can be lifted.</p>
+								<p>Food: None</p>
+							</dd>
+						<hr>
+						<dt id="baja-club">Baja Club</dt>
+							<dd id="baja-club">
+								<p>Where: Gavett In the Baja Shop</p>
+								<p>When: 1100-1800 10/28/13</p>
+								<p>Description: Come and make handbuilt cars go fast. Hot dogs on grill.</p>
+								<p>Food: Hot dogs</p>
+							</dd>
+					</dl> <!--end info-content-list-->
+				</div> <!--end info-content-->
+			</div> <!--end info-->
+		</div> <!--end sidebar-->
+		<div id="map">
+			<iframe src="http://mapsengine.google.com/map/u/0/embed?mid=zjrmX1fiysYs.kNruoxzsmiL4" width="640" height="480"></iframe>
+		</div> <!--end map-->
+	</div> <!--end wrapper-->
+	
+	<script>
+		$("dt").click(function() {
+    		toggleEventInfo($(this).attr("id"));
+		});
+
+		function toggleEventInfo(id) {
+			$('dd#' + id).slideToggle();
+			if ( $('dt#' + id).css( "font-weight") == 'bold' ) {
+				$('dt#' + id).css("font-weight", "normal");
+			} else {
+				$('dt#' + id).css("font-weight", "bold");
+			}
+		}
+	</script>
+	
+</body>
+
+</html>
