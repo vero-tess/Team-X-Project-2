@@ -5,9 +5,9 @@ Team-X-Project-2
 DESCRIPTION
 ___________
 
-A JavaScript web application to help students find where seminars and events with and without free food are located
-on the University of Rochester campus. The site includes an interactive map that allows users to visually locate the
-events as well as a list of available events and pertinent information about each.
+A web application to help students find where seminars and events with and without free food are located on the 
+University of Rochester campus. The site includes an interactive map that allows users to visually locate the events as 
+well as a list of available events and pertinent information about each.
 
 
 LAST EDITED
@@ -65,23 +65,24 @@ _____________________________________________________________
 contact uofrseminars@gmail.com
 
 
-WORK DONE PRIOR TO WEB CREATION
-_______________________________
+WORK DONE PRIOR TO AND INCLUDING WEB APP CREATION
+_________________________________________________
 
-6 paper protype iterations of design for the interface (Veronika and Zach)
-3 hours spent trying to create a Java app before Keenan suggested we make a website (Veronika and Zach)
-Map prototype (Josh)
-Data entry using google forms (Nate)
+Design development and six paper protype iterations for the interface (Nate, Veronika, and Zach); 3 hours spent trying 
+to develop a Java app before (Keenan) thought of and proposed to create a website and translated design into tech
+requirements (Veronika and Zach); Map development and prototypes (Nate, Josh); Data entry using Google forms 
+(Zach, Nate); Content updator (Josh); Location data aggregator (Zach).
 
-Website creation:
-Main programmer: Keenan
-Google maps: Nate
+Website creation: Main programmer (Keenan); Google maps development (Nate, Josh, Keenan); Logo (Veronika)
 
-Presentation:
-GitHub (almost) Pro: Veronika
-Grammar Nazi: Josh 
+Presentation Creation (Josh, Nate); GitHub (almost) Pros (Veronika, Keenan)
 
-Guy who sprints to get us good tables at Gleason: Nate
+
+The guy who sprints to get us good meeting tables (Nate)
+The black sheep (Veronika)
+The grammar Nazi (Josh)
+The soup connoisseur (Zach)
+The one who keeps us sane (Keenan)
 
 
 AUTHORS
