@@ -71,25 +71,18 @@ _________________________________________________
 Design development and six paper protype iterations for the interface (Nate, Veronika, and Zach); 3 hours spent trying 
 to develop a Java app before (Keenan) thought of and proposed to create a website and translated design into tech
 requirements (Veronika and Zach); Map development and prototypes (Nate, Josh); Data entry using Google forms 
-(Zach, Nate); Content updator (Josh); Location data aggregator (Zach).
+(Zach, Nate); Content updator (Josh); Location data aggregator (Zach)
 
 Website creation: Main programmer (Keenan); Google maps development (Nate, Josh, Keenan); Logo (Veronika)
 
 Presentation Creation (Josh, Nate); GitHub (almost) Pros (Veronika, Keenan)
 
 
-The guy who sprints to get us good meeting tables (Nate)
-The black sheep (Veronika)
-The grammar Nazi (Josh)
-The soup connoisseur (Zach)
-The one who keeps us sane (Keenan)
+The guy who sprints to get us good meeting tables (Nate); The black sheep (Veronika); The grammar Nazi (Josh);
+The soup connoisseur (Zach); The one who keeps us sane (Keenan)
 
 
 AUTHORS
 _______
 
-Josh Bronstein
-Keenan Bartlett
-Nate Buckley
-Veronika Alex
-Zach Taylor
+Veronika Alex; Keenan Bartlett; Josh Bronstein; Nate Buckley; Zach Taylor
