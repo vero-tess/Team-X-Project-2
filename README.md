@@ -1,13 +1,14 @@
-Team-X-Project-2
-================
+Team-X-Project-2: Food Finder
+=============================
 
 
 DESCRIPTION
 ___________
 
-A web application to help students find where seminars and events with and without free food are located on the 
-University of Rochester campus. The site includes an interactive map that allows users to visually locate the events as 
-well as a list of available events and pertinent information about each.
+Food Finder is a web application developed to help students find where seminars with and without free food and events 
+with free food are located on the University of Rochester campus and compare these to the existing dining options on any
+given day. The site includes an interactive map that allows users to visually locate the seminars, events, and dining
+services, as well as a list of available seminars, events, and dining options and pertinent information about each one.
 
 
 LAST EDITED
