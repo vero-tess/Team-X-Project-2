@@ -57,6 +57,16 @@ This program was written using HTML, CSS, and JavaScript and will run on Mac OS 
 browser that supports HTML 5. If Internet Explorer is used, version 7 or later is required. The code can be downloaded 
 and edited using any plain text editor.
 
+To use the application, all the user has to do is go to the website. Once there, the available seminars, events, and
+dining options are seen in a column on the left-hand side. If the user clicks on one of these options, a detailed
+description of the event appears from a drop down in the panel. On the right-hand side of the application, the user sees
+a map with differently-colored markers signifying the types of seminars, events, and dining options are currently 
+available to him or her. A key distinguishing the marker colors can be found at the top of the left-hand column. These 
+map markers correspond to the names of seminars, events, and dining options displayed in left-hand column. If the user 
+clicks on one of the colored markers, more detailed information, such as the date, time, location, details about the 
+food options, etc can be found. If the user selects a dining hall, a link to the Campus Dish website with the available 
+food options will be seen.
+
 
 
 MAILING LIST FOR INFORMATION UPDATES, BUGS, AND ANNOUNCEMENTS
